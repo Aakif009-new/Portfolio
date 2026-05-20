@@ -66,7 +66,7 @@ Run the project:
 📧 Email: syedmdaakif007@gmail.com
 
 💻 GitHub:
-urlAakif GitHub Profile[https://github.com/Aakif009-new](https://github.com/Aakif009-new)
+ GitHub Profile : [https://github.com/Aakif009-new](https://github.com/Aakif009-new)
 
 🔗 LinkedIn:https://www.linkedin.com/in/mohammed-aakif-64427536a/
 
